@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "value": "situation_report_command",
+      "label": "חיתוכי מצב רבנות",
+      "color": "#C4A882"
+    },
+    {
+      "value": "situation_report_senior",
+      "label": "אכ״א",
+      "color": "#7BA3C9"
+    },
+    {
+      "value": "situation_report_logistics",
+      "label": "הערכת מצב רבצ״ר",
+      "color": "#C98A8A"
+    },
+    {
+      "value": "operations",
+      "label": "הערכות רחמות",
+      "color": "#A8A8A8"
+    }
+  ],
+  "events": []
+}
